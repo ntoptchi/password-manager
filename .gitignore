@@ -1,0 +1,18 @@
+# Build artifacts
+
+\*.o
+password\_manager
+
+# Runtime data / secrets
+
+.masterpass
+passwords.dat
+
+# VSCode settings (optional)
+
+.vscode/
+
+# Temporary files
+
+\*\~
+
